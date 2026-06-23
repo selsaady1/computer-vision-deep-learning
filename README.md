@@ -4,6 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-0a7?style=flat-square) ![PyTorch (torch, torch.nn, torch.nn.functional)](https://img.shields.io/badge/PyTorch_%28torch%2C_torch.nn%2C_torch.nn.functional%29-0a7?style=flat-square) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0a7?style=flat-square) ![Google Colab](https://img.shields.io/badge/Google_Colab-0a7?style=flat-square) 
 
+![Computer Vision &amp; Deep Learning](images/diagram.png)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/computer-vision-deep-learning/**
 
 ## Overview
@@ -26,8 +28,12 @@ The notebook uses PyTorch's object-oriented module API, subclassing nn.Module an
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
+images/diagram.png
+images/diagram.svg
+index.html
 src/Computer Vision & Deep Learning.ipynb
 ```
 
